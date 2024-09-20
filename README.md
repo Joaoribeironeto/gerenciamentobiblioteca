@@ -1,2 +1,2 @@
 # gerenciamentobiblioteca
-Eu acabei começando a fazer de fato esse projeto hoje, nunca tinha trabalhado com php e reactive.
+Eu comecei a fazer de fato esse projeto hoje, primeira vez trabalhado com php e reactive.
